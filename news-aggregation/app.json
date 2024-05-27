@@ -1,0 +1,15 @@
+{
+    "id": "0b2139e2-679f-4269-8745-08a1abcadae2",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Umang Utkarsh",
+        "homepage": "https://github.com/umangutkarsh",
+        "support": "https://github.com/RocketChat/News-Aggregation-App"
+    },
+    "name": "News Aggregation",
+    "nameSlug": "news-aggregation",
+    "classFile": "NewsAggregationApp.ts",
+    "description": "Aggregates news from top websites and displays news in a configurable, user-friendly format with categorization. Provides centralized access to curated news within Rocket.Chat."
+}
